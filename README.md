@@ -1,1 +1,1 @@
-# Youhack
+# MineBTC
